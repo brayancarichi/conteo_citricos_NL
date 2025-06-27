@@ -1,6 +1,6 @@
 import streamlit as st
 from ultralytics import YOLO
-from ultralytics.solutions import object_counter
+
 
 
 import imutils
